@@ -1,0 +1,101 @@
+Date:  3/2/2012 3:16:48 PM
+User:  AP5_Lab
+File:  C:\Users\AP5_Lab\Documents\HX_Calorimeter-SW\trunk\Other\MaxConfig\ExportFromGateway_030212.nce
+MAX version:  5.0
+
+Exporting...
+========
+NI-DAQmx 9.4:
+  SETRA suction HXCal
+  BARO Pressure HXCal
+  Vaisala Temp
+  Vaisala RH
+  SETRA C207 0-100psig HXCal
+  SETRA 0-5inWC HXCal
+  SETRA 0-pt1inWC HXCal
+  SETRA 0-25psid HXCal
+  SetraC239_daul1inWC
+  Setra264_0-2pt5inWC
+  NI cDAQ-9178 "HXCal2"
+  8: NI 9411 "HXCal2-DIn_Mod8"
+  6: NI 9203 "HXCal2-mAIn_Mod6"
+  1: NI 9217 "HXCal2-RTD_Mod1"
+  2: NI 9217 "HXCal2-RTD_Mod2"
+  3: NI 9217 "HXCal2-RTD_Mod3"
+  4: NI 9217 "HXCal2-RTD_Mod4"
+  5: NI 9213 "HXCal2Mod5"
+  7: NI 9227 "HXCal2Mod7"
+  HXCal2_IN_ANALOG
+  HXCal2_IN_ANALOG/HX_GlyIn_1
+  HXCal2_IN_ANALOG/HX_GlyIn_2
+  HXCal2_IN_ANALOG/HX_GlyOut_1
+  HXCal2_IN_ANALOG/HX_GlyOut_2
+  HXCal2_IN_ANALOG/HX_AirIn_1
+  HXCal2_IN_ANALOG/HX_AirIn_2
+  HXCal2_IN_ANALOG/HX_AirIn_3
+  HXCal2_IN_ANALOG/HX_AirIn_4
+  HXCal2_IN_ANALOG/HX_AirOut_1
+  HXCal2_IN_ANALOG/HX_AirOut_2
+  HXCal2_IN_ANALOG/HX_AirOut_3
+  HXCal2_IN_ANALOG/HX_AirOut_4
+  HXCal2_IN_ANALOG/HX_AirOut_5
+  HXCal2_IN_ANALOG/HX_AirOut_6
+  HXCal2_IN_ANALOG/HX_AirOut_7
+  HXCal2_IN_ANALOG/HX_AirOut_8
+  HXCal2_IN_ANALOG/RH in Temp
+  HXCal2_IN_ANALOG/RH in
+  HXCal2_IN_ANALOG/RH out Temp
+  HXCal2_IN_ANALOG/RH out
+  HXCal2_IN_ANALOG/Ref Suct Pressure
+  HXCal2_IN_ANALOG/Barom Pressure
+  HXCal2_IN_ANALOG/Nozzle dP 0-5inWC
+  HXCal2_IN_ANALOG/UUT dP 0-pt1inWC
+  HXCal2_IN_ANALOG/Nozzle dP 2pt5inWC
+  HXCal2_IN_ANALOG/EMPTY
+  HXCal2_IN_ANALOG/GLY dP 0-25psid
+  HXCal2_IN_ANALOG/GLY Pin 0-100psig
+  HXCal2_IN_ANALOG/TC_0
+  HXCal2_IN_ANALOG/TC_1
+  HXCal2_IN_ANALOG/TC_2
+  HXCal2_IN_ANALOG/TC_3
+  HXCal2_IN_ANALOG/TC_4
+  HXCal2_IN_ANALOG/TC_5
+  HXCal2_IN_ANALOG/TC_6
+  HXCal2_IN_ANALOG/TC_7
+  HXCal1_IN_allDIGITAL
+  HXCal1_IN_allDIGITAL/GLY-tank-low
+  HXCal1_IN_allDIGITAL/GLY-htr-overtemp
+  HXCal1_IN_allDIGITAL/AIR-htr-overtemp
+  HXCal1_IN_allDIGITAL/BLOWER-on
+  HXCal1_IN_allDIGITAL/PUMP-on
+  HXCal1_IN_allDIGITAL/COMP-overload
+  HXCal1_IN_allDIGITAL/COMP-disch-pressure
+  HXCal1_IN_allDIGITAL/EMO-CLR
+  HXCal1_IN_allDIGITAL/EMO-reset
+  HXCal1_IN_allDIGITAL/MASTER-power-switch
+  NI cDAQ-9174 "HXCal1"
+  2: NI 9403 "HXCal1-DIO_Mod2"
+  3: NI 9265 "HXCal1-mAOut_Mod3"
+  4: NI 9265 "HXCal1-mAOut_Mod4"
+  1: NI 9211 "HXCal1-TC_Mod1"
+  HX_Cal1_OUT_allANALOG
+  HX_Cal1_OUT_allANALOG/BlowerVFD
+  HX_Cal1_OUT_allANALOG/PumpVFD
+  HX_Cal1_OUT_allANALOG/BypassDamper
+  HX_Cal1_OUT_allANALOG/AirHTR SCR
+  HX_Cal1_OUT_allANALOG/EXVairEVAP
+  HX_Cal1_OUT_allANALOG/GlyHTR SCR
+  HX_Cal1_OUT_allANALOG/EXVglyEVAP
+  HXCal1_IN_TC_Internal
+  HXCal1_IN_TC_Internal/COMP-suct-temp
+  HXCal1_IN_TC_Internal/COMP-disch-temp
+  HXCal1_OUT_allDIGITAL
+  HXCal1_OUT_allDIGITAL/AirBlowerRUN
+  HXCal1_OUT_allDIGITAL/GlyPumpRUN
+  HXCal1_OUT_allDIGITAL/AirHtrCON
+  HXCal1_OUT_allDIGITAL/GlyHtrCON
+  HXCal1_OUT_allDIGITAL/CompCON
+  HXCal1_OUT_allDIGITAL/HotGasSoln
+  HXCal1_OUT_allDIGITAL/SuctCoolSoln
+
+*** Export complete ***
